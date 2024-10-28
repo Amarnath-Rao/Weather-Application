@@ -27,5 +27,5 @@ WeatherApp-Android is an Android application designed to provide weather updates
 ## Screenshots
 
 <div >
-<img src="/fastlane/metadata/android/en-US/images/screenshots/1.jpg" width="32%" /> <img src="/fastlane/metadata/android/en-US/images/screenshots/2.jpg" width="32%" />
+<img src="/ui/1.jpg" width="32%" /> <img src="/ui/2.jpg" width="32%" />
 </div>
